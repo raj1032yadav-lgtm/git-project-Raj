@@ -6,3 +6,7 @@ I am a student at Upgrad , currently learning git and github
 - communication
 - Problem solving
 - Basic Git
+
+## Projects
+- LMS: one line about it
+- CMS: one line about it
